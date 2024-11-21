@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  padding-left: 20px;
+  padding-top: 200px;
+  background-color: rgb(176, 127, 255);
+}
+div {
+  margin: auto;
+  overflow: hidden;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 206px;
+}
+thead {
+  border-radius: 10px;
+  /* border: 1px solid black; */
+}
+td {
+  border: 1px solid black;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(204, 175, 255);
+}
+tr {
+  border: 1px solid black;
+}
+tbody {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+th {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(204, 175, 255);
+  color: black;
+}

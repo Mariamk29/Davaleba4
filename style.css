@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+.title{
+  text-align: center;
+    color: rgb(60, 11, 71);
+}
+.main{
+    text-align: center;
+    padding: 200px;
+    background: linear-gradient(to right, rgb(247, 118, 118), pink);
+    height: 100vh;
+}
+.video{
+    background-color: rgb(88, 59, 122);
+    border: 2px solid rgb(88, 59, 122);
+    border-radius: 2px;
+    padding: 5px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.table{
+    border: 2px solid rgb(88, 59, 122);
+    border-radius: 2px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+.text{
+    padding: 10px;
+}
